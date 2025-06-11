@@ -5,4 +5,4 @@ langchain-openai==0.3.11
 langgraph==0.3.21
 pinecone==5.4.2
 pypdf2
-streamlit-pdf-viewer
+streamlit-pdf-viewer==0.0.22
